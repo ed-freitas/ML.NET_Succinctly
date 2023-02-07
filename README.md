@@ -1,2 +1,8 @@
 # ML.NET Succinctly
 The code repo for the book ML.NET Succinctly from Syncfusion, written by Ed Freitas
+
+The folder \ImageClassification\ImgClass\ImgClass\bin\Debug\net6.0\runtimes is missing due to its size. This can be created when installing the required NuGet packages
+
+The file "\ImageClassification\ImgClass\ImgClass\bin\Debug\net6.0\ImgClass.zip" is also missing due to its size. This file can be generated using Model Builder.
+
+The file "\ImageClassification\ImgClass\ImgClass\ImgClass.zip" is also missing due to its size. This file can be generated using Model Builder.
